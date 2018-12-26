@@ -1,0 +1,6 @@
+<map id="Socket_abortWrite" name="Socket_abortWrite">
+<area shape="rect" id="node2" href="$SocketBuffer_8c.html#a5f22a1ac450cb1805e2ab8f2ae3da80e" title="Get any queued write data for a specific socket. " alt="" coords="183,31,333,57"/>
+<area shape="rect" id="node3" href="$LinkedList_8c.html#acad319e9ce896ff1fff30ddbeb06d22d" title="Finds an element in a list by comparing the content or pointer to the content. " alt="" coords="416,5,509,32"/>
+<area shape="rect" id="node5" href="$SocketBuffer_8c.html#a39f1ee9c98bc12a7be4d7a40b03550d5" title="List callback function for comparing pending_writes by socket. " alt="" coords="381,56,544,83"/>
+<area shape="rect" id="node4" href="$LinkedList_8c.html#a7c6fba7f4b569c69829676bed2852ee9" title="Forward iteration through a list. " alt="" coords="592,5,707,32"/>
+</map>

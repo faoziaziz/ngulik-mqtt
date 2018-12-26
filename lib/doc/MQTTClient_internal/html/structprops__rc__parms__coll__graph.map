@@ -1,0 +1,14 @@
+<map id="props_rc_parms" name="props_rc_parms">
+<area shape="rect" id="node2" href="$structMQTTProperties.html" title="MQTT version 5 property list. " alt="" coords="219,335,336,361"/>
+<area shape="rect" id="node3" href="$structMQTTProperty.html" title="Structure to hold an MQTT version 5 property of any type. " alt="" coords="84,245,191,272"/>
+<area shape="rect" id="node4" href="$structMQTTLenString.html" title="The data for a length delimited string. " alt="" coords="5,127,120,153"/>
+<area shape="rect" id="node5" href="$structMQTTClients.html" title="MQTTClients" alt="" coords="383,335,481,361"/>
+<area shape="rect" id="node6" href="$structClients.html" title="Data related to one client. " alt="" coords="401,245,463,272"/>
+<area shape="rect" id="node7" href="$structMQTTClient__persistence.html" title="A structure containing the function pointers to a persistence implementation and the context or state..." alt="" coords="145,127,309,153"/>
+<area shape="rect" id="node8" href="$structwillMessages.html" title="Client will message data. " alt="" coords="333,127,430,153"/>
+<area shape="rect" id="node9" href="$structnetworkHandles.html" title="networkHandles" alt="" coords="454,127,567,153"/>
+<area shape="rect" id="node10" href="$structList.html" title="Structure to hold all data for one list. " alt="" coords="592,127,635,153"/>
+<area shape="rect" id="node11" href="$structListElementStruct.html" title="Structure to hold all data for one list element. " alt="" coords="551,7,675,33"/>
+<area shape="rect" id="node12" href="$structMQTTPacket.html" title="Data for a packet with header only. " alt="" coords="589,245,689,272"/>
+<area shape="rect" id="node13" href="$unionHeader.html" title="Bitfields for the MQTT header byte. " alt="" coords="659,127,722,153"/>
+</map>

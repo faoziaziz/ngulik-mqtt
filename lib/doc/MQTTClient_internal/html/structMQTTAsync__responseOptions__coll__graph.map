@@ -1,0 +1,6 @@
+<map id="MQTTAsync_responseOptions" name="MQTTAsync_responseOptions">
+<area shape="rect" id="node2" href="$structMQTTSubscribe__options.html" title="The MQTT V5 subscribe options, apart from QoS which existed before V5. " alt="" coords="5,199,169,225"/>
+<area shape="rect" id="node3" href="$structMQTTProperties.html" title="MQTT version 5 property list. " alt="" coords="194,199,311,225"/>
+<area shape="rect" id="node4" href="$structMQTTProperty.html" title="Structure to hold an MQTT version 5 property of any type. " alt="" coords="199,109,306,136"/>
+<area shape="rect" id="node5" href="$structMQTTLenString.html" title="The data for a length delimited string. " alt="" coords="195,5,310,32"/>
+</map>

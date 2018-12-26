@@ -1,0 +1,5 @@
+<map id="Socket_close_only" name="Socket_close_only">
+<area shape="rect" id="node2" href="$Socket_8c.html#a47824ad5afba267b9488150e1f7e8610" title="Gets the specific error corresponding to SOCKET_ERROR. " alt="" coords="184,5,280,32"/>
+<area shape="rect" id="node3" href="$Log_8c.html#a669722e3f57811871f97c12392aba85d" title="Log a message. " alt="" coords="328,5,371,32"/>
+<area shape="rect" id="node4" href="$Thread_8c.html#a7e92185eb22775c76e1b6b8865468f17" title="Lock a mutex which has alrea. " alt="" coords="419,5,553,32"/>
+</map>

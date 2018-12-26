@@ -1,0 +1,8 @@
+<map id="MQTTProtocol_emptyMessageList" name="MQTTProtocol_emptyMessageList">
+<area shape="rect" id="node2" href="$LinkedList_8c.html#a7c6fba7f4b569c69829676bed2852ee9" title="Forward iteration through a list. " alt="" coords="947,17,1061,44"/>
+<area shape="rect" id="node3" href="$MQTTProtocolClient_8c.html#a900fa28a8774ad6f5535104bb62e7abf" title="Remove stored message data. " alt="" coords="273,43,493,69"/>
+<area shape="rect" id="node7" href="$LinkedList_8c.html#a3cf8578dba23f97dd0411e85fe3b7ff2" title="Removes and frees all items in a list, leaving the list ready for new items. " alt="" coords="344,93,423,120"/>
+<area shape="rect" id="node4" href="$LinkedList_8c.html#a8430370b2b15c56ec95bb8e7e36753a5" title="Removes and frees an item in a list by comparing the pointer to the content. " alt="" coords="541,43,631,69"/>
+<area shape="rect" id="node5" href="$LinkedList_8c.html#ab82181e0c1d96954f82dee67cee41296" title="Removes and optionally frees an element in a list by comparing the content. " alt="" coords="679,43,757,69"/>
+<area shape="rect" id="node6" href="$LinkedList_8c.html#acad319e9ce896ff1fff30ddbeb06d22d" title="Finds an element in a list by comparing the content or pointer to the content. " alt="" coords="805,43,899,69"/>
+</map>

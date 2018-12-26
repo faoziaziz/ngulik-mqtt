@@ -1,0 +1,11 @@
+<map id="MQTTAsync_unsubscribeMany" name="MQTTAsync_unsubscribeMany">
+<area shape="rect" id="node2" href="$utf-8_8c.html#a4f3cf77538d867bb5b421bcb687dccdf" title="Validate a null&#45;terminated string has only UTF&#45;8 characters. " alt="" coords="270,5,409,32"/>
+<area shape="rect" id="node5" href="$MQTTAsync_8c.html#a7c90e793b55f2e0d1bf3fc88b6871752" title="Assign a new message id for a client. " alt="" coords="253,56,425,83"/>
+<area shape="rect" id="node7" href="$MQTTProtocolClient_8c.html#a89588f085edc5cee4eb650e8ad114df4" title="Duplicate a string, safely, allocating space on the heap. " alt="" coords="291,107,388,133"/>
+<area shape="rect" id="node3" href="$utf-8_8c.html#ad2012627fca4b4bdd9f67bde49b0d1cb" title="Validate a length&#45;delimited string has only UTF&#45;8 characters. " alt="" coords="473,5,579,32"/>
+<area shape="rect" id="node4" href="$utf-8_8c.html#a9727caa7417e6bed8cfad4121a22628d" title="Validate a single UTF&#45;8 character. " alt="" coords="627,5,764,32"/>
+<area shape="rect" id="node6" href="$Thread_8c.html#a216e79bc196440343aa802dfad8dc38b" title="Get the thread id of the thread from which this function is called. " alt="" coords="477,56,575,83"/>
+<area shape="rect" id="node8" href="$MQTTProtocolClient_8c.html#a447b65c664ebedef8fecb70e29dc1767" title="Copy no more than dest_size &#45;1 characters from the string pointed to by src to the array pointed to b..." alt="" coords="475,107,577,133"/>
+<area shape="rect" id="node9" href="$Log_8c.html#a669722e3f57811871f97c12392aba85d" title="Log a message. " alt="" coords="674,107,717,133"/>
+<area shape="rect" id="node10" href="$Thread_8c.html#a7e92185eb22775c76e1b6b8865468f17" title="Lock a mutex which has alrea. " alt="" coords="812,107,947,133"/>
+</map>

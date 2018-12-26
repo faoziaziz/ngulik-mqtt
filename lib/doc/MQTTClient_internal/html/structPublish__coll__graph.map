@@ -1,0 +1,6 @@
+<map id="Publish" name="Publish">
+<area shape="rect" id="node2" href="$unionHeader.html" title="Bitfields for the MQTT header byte. " alt="" coords="5,199,68,225"/>
+<area shape="rect" id="node3" href="$structMQTTProperties.html" title="MQTT version 5 property list. " alt="" coords="93,199,210,225"/>
+<area shape="rect" id="node4" href="$structMQTTProperty.html" title="Structure to hold an MQTT version 5 property of any type. " alt="" coords="98,109,205,136"/>
+<area shape="rect" id="node5" href="$structMQTTLenString.html" title="The data for a length delimited string. " alt="" coords="94,5,209,32"/>
+</map>

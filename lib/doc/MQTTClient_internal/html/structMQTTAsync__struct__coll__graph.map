@@ -1,0 +1,16 @@
+<map id="MQTTAsync_struct" name="MQTTAsync_struct">
+<area shape="rect" id="node2" href="$structClients.html" title="Data related to one client. " alt="" coords="325,351,386,377"/>
+<area shape="rect" id="node3" href="$structMQTTClient__persistence.html" title="A structure containing the function pointers to a persistence implementation and the context or state..." alt="" coords="5,231,169,257"/>
+<area shape="rect" id="node4" href="$structwillMessages.html" title="Client will message data. " alt="" coords="193,231,291,257"/>
+<area shape="rect" id="node5" href="$structnetworkHandles.html" title="networkHandles" alt="" coords="315,231,428,257"/>
+<area shape="rect" id="node6" href="$structList.html" title="Structure to hold all data for one list. " alt="" coords="483,231,526,257"/>
+<area shape="rect" id="node7" href="$structListElementStruct.html" title="Structure to hold all data for one list element. " alt="" coords="443,111,567,137"/>
+<area shape="rect" id="node8" href="$structMQTTAsync__command.html" title="MQTTAsync_command" alt="" coords="607,351,765,377"/>
+<area shape="rect" id="node9" href="$structMQTTSubscribe__options.html" title="The MQTT V5 subscribe options, apart from QoS which existed before V5. " alt="" coords="567,231,731,257"/>
+<area shape="rect" id="node10" href="$structMQTTProperties.html" title="MQTT version 5 property list. " alt="" coords="755,231,873,257"/>
+<area shape="rect" id="node11" href="$structMQTTProperty.html" title="Structure to hold an MQTT version 5 property of any type. " alt="" coords="761,111,867,137"/>
+<area shape="rect" id="node12" href="$structMQTTLenString.html" title="The data for a length delimited string. " alt="" coords="757,5,871,32"/>
+<area shape="rect" id="node13" href="$structMQTTAsync__createOptions.html" title="MQTTAsync_createOptions" alt="" coords="921,351,1102,377"/>
+<area shape="rect" id="node14" href="$structMQTTPacket.html" title="Data for a packet with header only. " alt="" coords="1127,351,1227,377"/>
+<area shape="rect" id="node15" href="$unionHeader.html" title="Bitfields for the MQTT header byte. " alt="" coords="1145,231,1208,257"/>
+</map>
